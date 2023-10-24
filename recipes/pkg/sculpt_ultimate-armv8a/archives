@@ -3,6 +3,7 @@ _/pkg/sculpt_distribution-mnt_reform2
 _/pkg/sculpt_distribution-imx8q_evk
 _/pkg/falkon
 _/pkg/imx8mq_wifi
+_/pkg/vmm-busybox-arm64
 _/pkg/vmm-debian-installer-arm64
 _/pkg/cmus
 _/pkg/ssh_client
